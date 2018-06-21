@@ -5,10 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title> jie <3 </title>
+        <title> Christ the King Network </title>
 
-        <!-- Hotjar Tracking Code for jiepresents.servebeer.com -->
-        <script>
+        <!--<script>
             (function(h,o,t,j,a,r){
                 h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
                 h._hjSettings={hjid:904413,hjsv:6};
@@ -17,7 +16,7 @@
                 r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
                 a.appendChild(r);
             })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-        </script>
+        </script> -->
 
 
         <!-- Fonts -->
