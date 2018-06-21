@@ -2,7 +2,7 @@
   <div>
     <!-- <Countdown deadline="August 22, 2022"></Countdown> -->
     <!-- or  -->
-    <Countdown end="August 26, 2018"></Countdown>
+    <Countdown end="October 1, 2018"></Countdown>
     
   </div>
 </template>
@@ -18,7 +18,7 @@ export default {
 <style>
 
 .digit{
-  color:#cddc39;
+  color:#E53935;
   font-size: 50px !important;
 }
 .text{
